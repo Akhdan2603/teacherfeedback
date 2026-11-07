@@ -10,5 +10,5 @@ Cara pasang:
    iPhone Safari: Bagikan > "Tambah ke Layar Utama".
 4. Setelah itu aplikasi jalan tanpa internet.
 
-Mengubah data: edit index.html (variabel SAMPLE), lalu ubah angka versi di sw.js (feedback-gen-v4 -> v5) dan upload ulang.
+Mengubah data: edit index.html (variabel SAMPLE), lalu ubah angka versi di sw.js (feedback-gen-v5 -> v6) dan upload ulang.
 PWA hanya bisa diinstal lewat https atau localhost, bukan dengan membuka file langsung (file://).

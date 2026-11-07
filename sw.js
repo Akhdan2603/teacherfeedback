@@ -1,5 +1,5 @@
 // Naikkan angka versi ini setiap kali index.html diubah agar cache lama diganti.
-var CACHE = "feedback-gen-v4";
+var CACHE = "feedback-gen-v5";
 var FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", function (e) {
